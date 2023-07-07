@@ -8,7 +8,7 @@ tags:
   - how-to
 ---
 
-{{< paige/image class="rounded-5" src="https://unsplash.com/photos/qKlUdr1qOR8" >}}
+{{< paige/image class="rounded-5" src="https://images.unsplash.com/photo-1522978413910-e3889a1343db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80" >}}
 
 I've just read a summary of on Jen Sincero’s You are a Badass. In part because I feel like there is something preventing me from starting on things that I want to do, namely, being a badass. Here is what I've learned.
 

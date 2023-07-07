@@ -5,8 +5,10 @@ tags:
   - motivational
   - productivity
   - pragmatic
-  - how to
+  - how-to
 ---
+
+{{< paige/image class="rounded-5" src="https://unsplash.com/photos/qKlUdr1qOR8" >}}
 
 I've just read a summary of on Jen Sincero’s You are a Badass. In part because I feel like there is something preventing me from starting on things that I want to do, namely, being a badass. Here is what I've learned.
 
